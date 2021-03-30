@@ -1,3 +1,3 @@
-module github.com/quincycheng/cem-go-api
+module github.com/quincycheng/cem-api-go
 
 go 1.16
